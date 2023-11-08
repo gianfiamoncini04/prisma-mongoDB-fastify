@@ -3,9 +3,9 @@
 #### Exemplo de API conectando ao banco (MONGO DB)
 
 #### > Como testar no seu database? <
-#### 1 - Executar `npm i`
-#### 2 - Modificar o arquivo `.env` com a string de conexão.
-#### 3 - Rodar aplicação com `npm run dev`.
+##### 1 - Executar `npm i`
+##### 2 - Modificar o arquivo `.env` com a string de conexão.
+##### 3 - Rodar aplicação com `npm run dev`.
 
 
 ### Utils:
